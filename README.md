@@ -1,4 +1,4 @@
-Basic CRUD Application using Flask, Oracle DB, Python, Jquery, Bootstrap, SQLiteDB
+Basic Student Database Application using Flask, Oracle DB, Python, Jquery, Bootstrap, SQLiteDB
 
 Pre-requisite:
 Python, Flask, Oracle instantclient, SQLite
